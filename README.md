@@ -1,2 +1,2 @@
 # RESSCHIDU
-Sheduled Residential IDU Control Firmware
+Scheduled Residential IDU Control Firmware
